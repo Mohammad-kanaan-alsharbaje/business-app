@@ -40,6 +40,7 @@ class MyApp extends StatelessWidget {
               width: 200,
               height: 20,
               child: Divider(
+                thickness:3,
                 color: Colors.cyan[300],
               ),
             ),
